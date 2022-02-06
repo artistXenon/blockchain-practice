@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-practice",
+  "version": "1.0.0",
+  "description": "block chain practice w/ crypto-js in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artistXenon/blockvhain-practice.git"
+  },
+  "keywords": [
+    "blockchain",
+    "node.js"
+  ],
+  "author": "Ailre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artistXenon/blockvhain-practice/issues"
+  },
+  "homepage": "https://github.com/artistXenon/blockvhain-practice#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
